@@ -24,7 +24,7 @@ const Navbar = () => {
         </Link>
       </div>
       <div className="flex gap-4 items-center">
-        
+        <Button>Sign In With Github</Button>
 
         <ModeToggle />
 
